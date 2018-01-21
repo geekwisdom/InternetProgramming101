@@ -7,7 +7,7 @@ The examples here cover listing1.c to listing6.c to describe a VERY SIMPLE web s
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. These samples are for educatinal purposes only!. They are not meant to be used in a LIVE PRODUCTION enviornment for any reason.
 
 ### Prerequisites
 
@@ -57,4 +57,4 @@ This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the [LICENS
 ## Acknowledgments
 
 * Thanks to archive.org for the ability to store these videos
-* Shout hout to the folks at GITHUB for the location to store it
+* SHOUT OUT to the folks at GITHUB for the location to store it
